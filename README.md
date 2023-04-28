@@ -8,7 +8,7 @@ I'm passionate about creating beautiful and functional UI designs.
 -  I’m currently learning React
 -  How to reach me at betelhemkirub@gmail.com
 
-##Skills
+## Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,html,css,sass,tailwind,react,git,github,)
+![My Skills](https://skillicons.dev/icons?i=,html,css,sass,tailwind,react,github,git)
 
