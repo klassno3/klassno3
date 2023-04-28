@@ -1,8 +1,7 @@
 ### Hi there 👋 My Name is Betelhem Kirub
 ## Frontend Developer
 
-I'm passionate about creating beautiful and functional UI designs.
-
+"Web developer with a strong foundation in HTML, CSS, Sass, Tailwind, and JavaScript, and currently expanding skills in React. Passionate about creating and improving visually compelling websites with a focus on user experience. Committed to professional development and staying up-to-date on the latest industry trends and best practices. Seeking an internship opportunity to further develop skills, gain hands-on experience, and work collaboratively with an experienced team."
 
 ### 👩‍💻 About Me 
 
