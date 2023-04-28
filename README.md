@@ -4,13 +4,15 @@
 I'm passionate about creating beautiful and functional UI designs.
 
 
-### :woman_technologist: About Me 
+### 👩‍💻: About Me 
 
--  :map: I’m Based on Addis Ababa, Ethiopia
--  :brain: I’m currently learning React
--  :mailbox: How to reach me at betelhemkirub@gmail.com
+-  🌍: I’m Based on Addis Ababa, Ethiopia
+-  🧠: I’m currently learning React
+-  📫: How to reach me at betelhemkirub@gmail.com
 
-##Skills
+## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,html,css,sass,tailwind,react,git,github,)
+
+## Social
 
