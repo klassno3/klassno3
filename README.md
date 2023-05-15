@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Betelhem Kirub
 ## Frontend Developer
 
-I'm a junior web developer with a hunger for learning and a passion for creating beautiful and functional websites. I have experience with HTML, CSS, and JavaScript and have recently experimented with some popular front-end frameworks. I enjoy collaborating with other developers and designers and am always looking for opportunities to improve my skills and tackle new challenges. I'm a detail-oriented person who is committed to writing clean and optimized code that delivers great user experiences. When I'm not coding, you can find me playing video games, exploring new music, or reading up on tech news.
+I'm a junior web developer with a hunger for learning and a passion for creating beautiful and functional websites. I have experience with HTML, CSS, and JavaScript and have recently experimented with some popular front-end frameworks. I am currently seeking an internship opportunity where I can apply my skills in a supportive environment and learn from experienced developers. I am eager to contribute to a team working on meaningful projects while also expanding my knowledge of cutting-edge technologies and techniques. If you are looking for a hardworking and enthusiastic intern who is ready to take on new challenges, please don't hesitate to contact me.
 
 ### 👩‍💻 About Me 
 
