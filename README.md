@@ -6,12 +6,12 @@ I'm a junior web developer with a hunger for learning and a passion for creating
 ### 👩‍💻 About Me 
 
 -  🌍 I’m Based on Addis Ababa, Ethiopia
--  🧠 I’m currently learning Redux
+-  🧠 I’m currently learning Node Js
 -  📫 You to reach me at betelhemkirub@gmail.com
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,react,git,github,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,react,redux,git,github,)
 
 ## Social
 
