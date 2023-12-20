@@ -11,7 +11,7 @@ I'm a junior web developer with a hunger for learning and a passion for creating
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,redux,git,github,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,bootstrap,react,redux,git,github,)
 
 ## Social
 
