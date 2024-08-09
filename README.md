@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Betelhem Kirub
 ## Frontend Developer
 
-I'm a junior web developer with a hunger for learning and a passion for creating beautiful and functional websites. I have experience with HTML, CSS, and JavaScript and have recently experimented with some popular front-end frameworks. I am currently seeking an internship opportunity where I can apply my skills in a supportive environment and learn from experienced developers. I am eager to contribute to a team working on meaningful projects while also expanding my knowledge of cutting-edge technologies and techniques. If you are looking for a hardworking and enthusiastic intern who is ready to take on new challenges, please don't hesitate to contact me.
+i'm a Front-End Developer and UI/UX Designer, I seamlessly blend creativity with technical expertise to craft engaging and user-centric digital experiences. With an eye for design and a passion for coding, I bring concepts to life through intuitive interfaces and seamless interactions. My goal is to bridge the gap between aesthetics and functionality, creating visually stunning designs that prioritize user experience. I thrive on bringing innovative ideas to fruition and shaping the digital landscape with intuitive and visually appealing solutions.
 
 ### 👩‍💻 About Me 
 
