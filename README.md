@@ -12,7 +12,7 @@ I'm a Front-End Developer and UI/UX Designer, I seamlessly blend creativity with
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,redux,git,github,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,redux,git,github,sql,nodejs,next,express)
 
 ## Social
 
