@@ -1,5 +1,5 @@
 ### Hi there 👋 My Name is Betelhem Kirub
-## Frontend Developer
+## Full stack Developer
 
 I'm a Full stack Developer and UI/UX Designer, I seamlessly blend creativity with technical expertise to craft engaging and user-centric digital experiences. With an eye for design and a passion for coding, I bring concepts to life through intuitive interfaces and seamless interactions. My goal is to bridge the gap between aesthetics and functionality, creating visually stunning designs that prioritize user experience. I thrive on bringing innovative ideas to fruition and shaping the digital landscape with intuitive and visually appealing solutions.
 
